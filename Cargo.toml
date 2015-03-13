@@ -3,7 +3,7 @@
 name = "iron-try"
 version = "0.0.1"
 authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
-repository = "https://github.com/reem/rust-iron-try.git"
+repository = "https://github.com/reem/iron-try.git"
 description = "A handler for chaining sub-handlers."
 readme = "README.md"
 license = "MIT"
